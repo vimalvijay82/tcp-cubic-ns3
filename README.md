@@ -4,6 +4,7 @@
 <li> Download and install NS3 from https://www.nsnam.org/
 <li> Download and install gnuplot from http://www.gnuplot.info/
 </ul>
+
 ### How to run
 <ol>
 <li> Create a directory named outputs in the ns3 root folder
